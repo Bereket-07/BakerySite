@@ -177,8 +177,8 @@ body, html {
 .group-13 {
     width: 279px; /* Set the desired width */
     height: 133px; /* Set the desired height */
-    left: -100px;
-    top: 100px;
+    left: 0;
+    top: 0;
     
 }
    
@@ -186,32 +186,32 @@ body, html {
 .group-17 {
     width: 279px; /* Set the desired width */
     height: 133px; /* Set the desired height */
-    left: 772.57px;
-    top: 16.85px;
+    left: 45%;
+    top: 6.85px;
     transform: rotate(220deg);
 }
  
 .group-14 {
     width: 279px; /* Set the desired width */
     height: 133px; /* Set the desired height */
-    left: -109.36px;
-    top: 547.99px;
+    bottom: 0;
+    left: 0;
     transform: rotate(0.73deg);
 }
 
 .group-15 {
     width: 279px; /* Set the desired width */
     height: 133px; /* Set the desired height */
-    left: 1400.14px;
-    top: 645.89px;
+    bottom: 0;
+    right: 0;
     
 }
 
 .group-16 {
     width: 279px; /* Set the desired width */
     height: 133px; /* Set the desired height */
-    left: 1400.14px;
-    top: 20px;
+    right: 0;
+    top: 0;
     transform: rotate(67.81deg);
 }
 
