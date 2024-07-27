@@ -286,15 +286,15 @@ body, html {
  
 .button {
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     padding: 16px 32px;
-    gap: 12px;
+    gap: 52px;
     width: 196px;
     height: 60px;
     background: rgba(207, 140, 11, 0.1);
     border: 1px solid #CF8C0B;
+    position: relative;
 }
 
 .shop-now {
@@ -309,7 +309,7 @@ body, html {
 
 .arr {
     width: 27px;
-    height: 14px;
+    height: 14px;  
 }
 
 .vector {
@@ -555,6 +555,7 @@ body, html {
     height: 450px;
     justify-self: center;
     align-self: center;
+    background: rgba(207, 140, 11, 0.1);
 }
 
 
